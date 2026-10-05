@@ -4,12 +4,12 @@
 
 ### Game Development Student
 
-Oyun geliştirme bölümü öğrencisiyim. Yaklaşık 1 yıldır Unity üzerinde çalışıyor, temel düzeyde C# ve yapay zeka araçlarından destek alarak kendimi geliştirmek için projeler üretiyorum.
+I'm a game development student. I've been working with Unity for about a year, building projects to improve myself using basic C# and AI-assisted tools.
 
 ---
 
-🔭 **Şu an ne yapıyorum:** Unity ile oyun mekanikleri ve öğrenme amaçlı küçük projeler  
-🌱 **Öğreniyorum:** Unity, Temel C# ve Oyun Tasarımı  
+🔭 **Currently working on:** Unity game mechanics and small learning projects  
+🌱 **Currently learning:** Unity,Blender, basic C#, and Game Design 
 
 ---
 
@@ -24,4 +24,6 @@ Oyun geliştirme bölümü öğrencisiyim. Yaklaşık 1 yıldır Unity üzerinde
 🐦 **X (Twitter):** [@sylonage](https://x.com/sylonage)  
 
 🔗 **All Links:** [guns.lol/sylon](https://guns.lol/sylon)
+
+</div>
 
