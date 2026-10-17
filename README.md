@@ -1,16 +1,26 @@
-## Hi there 👋
+<# Hi 👋, I'm Alperen (Sylon)
 
-<!--
-**SylonAge/SylonAge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Game Development Student
 
-Here are some ideas to get you started:
+I'm a game development student. I've been working with Unity for about a year, building projects to improve myself using basic C# and AI-assisted tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+🔭 **Currently working on:** Unity game mechanics and small learning projects  
+🌱 **Currently learning:** Unity,Blender, basic C#, and Game Design 
+
+---
+
+### 💬 Contact Me!
+
+🎙️ **Discord:** Sylonage  
+
+📫 **Mail:** sylonage@gmail.com  
+
+🎮 **Steam:** [SylonAge](https://steamcommunity.com/id/SylonAge/)  
+
+🐦 **X (Twitter):** [@sylonage](https://x.com/sylonage)  
+
+🔗 **All Links:** [guns.lol/sylon](https://guns.lol/sylon)!--
+
 -->
