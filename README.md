@@ -1,4 +1,4 @@
-<# Hi 👋, I'm Alperen (Sylon)
+# Hi 👋, I'm Alperen (Sylon)
 
 ### Game Development Student
 
@@ -23,4 +23,3 @@ I'm a game development student. I've been working with Unity for about a year, b
 
 🔗 **All Links:** [guns.lol/sylon](https://guns.lol/sylon)!--
 
--->
